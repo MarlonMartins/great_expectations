@@ -1,2 +1,2 @@
-# great_expectations
-Estudo sobre o great expectations
+# Great Expectations
+Estudo sobre a ferramenta great expectations
